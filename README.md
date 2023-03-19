@@ -1,2 +1,2 @@
 # public-folder
-d0cument 
+document 
